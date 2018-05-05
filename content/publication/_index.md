@@ -1,6 +1,6 @@
 +++
-title = "Publications"
-date = 2017-01-01T00:00:00
+title = "演讲文章"
+date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
 

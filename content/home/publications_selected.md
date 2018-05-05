@@ -4,9 +4,9 @@
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = true
-date = 2016-04-20T00:00:00
+date = 2016-04-20
 
-title = "Selected Publications"
+title = "特别推荐"
 subtitle = ""
 
 # Order that this section will appear in.
